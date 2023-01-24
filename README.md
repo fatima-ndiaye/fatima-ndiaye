@@ -11,14 +11,13 @@ I'm a passionate front-end developer from Senegal with a love for minimalistic d
 ### 🤓 A few quick facts:
 
 - 🔭 &nbsp; I’m currently working on a **Google keep clone**
-- 🌱 &nbsp; I’m currently learning about Python and Django; 
+- 🌱 &nbsp; I’m currently learning about Python and Django 
+- 🤝🏽 I am looking to collaborate on any web related project
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fatima-xs?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- I am currently learning spanish and Deutsch 
-- 🫖I am a tea lover and a cat person.
-- 📚 &nbsp; I am a bookworm so  when I am not coding, I am Pretending to be a book critic. Checkout my [Goodreads](https://www.goodreads.com/blue-xs)) to see the book I have read
-
-
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 🌍 I am currently learning Spanish and German.
+- 🫖 I am a tea lover and a cat person.
+- 📚 &nbsp; I am a bookworm so  when I am not coding, I am pretending to be a book critic. Checkout my [Goodreads](https://www.goodreads.com/blue-xs)) to see the books I have read
 
 ### 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
