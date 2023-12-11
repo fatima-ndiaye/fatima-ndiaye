@@ -1,6 +1,6 @@
 # Hi there <img src="waving-hand.png" width="25"> ,  I'm Fatima
 
-I'm a passionate front-end developer from Senegal with a love for minimalistic design.
+I'm a passionate software developer from Senegal with a love for minimalistic designs.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
 [![Dev.To](https://img.shields.io/badge/Dev.To-0a0a0a?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/fatimaxs)
@@ -12,7 +12,7 @@ I'm a passionate front-end developer from Senegal with a love for minimalistic d
 ## 🤓 A few quick facts
 
 - 🔭 &nbsp; I’m currently working on a **Google Keep Clone**
-- 🌱 &nbsp; I’m currently learning Imba
+- 🌱 &nbsp; I’m currently relearning Python
 - 🤝🏽 I am looking to collaborate on any web-related project
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/fatima-xs?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related; I am happy to help
@@ -25,6 +25,7 @@ I'm a passionate front-end developer from Senegal with a love for minimalistic d
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![D3](https://img.shields.io/badge/D3-%23323330.svg?style=flat&logo=D3.js&logoColor=%#323330)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -35,6 +36,8 @@ I'm a passionate front-end developer from Senegal with a love for minimalistic d
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%2300519e.svg?style=flat&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=flat&logo=jasmine&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
