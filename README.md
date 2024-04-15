@@ -18,7 +18,7 @@ I'm a passionate software developer from Senegal with a love for minimalistic de
 - 💬 &nbsp; Ask me about anything tech related; I am happy to help
 - 🌍 I am currently learning Spanish and German.
 - 🫖 I am a tea lover and a cat person.
-- 📚 &nbsp; I am a bookworm so  when I am not coding, I am pretending to be a book critic. Checkout my [Goodreads]((https://www.goodreads.com/blue-xs)) to see the books I have read.
+- 📚 &nbsp; I am a bookworm so  when I am not coding, I am pretending to be a book critic. Checkout my [Goodreads](https://www.goodreads.com/blue-xs) to see the books I have read.
 
 ## 💻 Tools
 
